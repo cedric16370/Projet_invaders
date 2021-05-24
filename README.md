@@ -22,4 +22,4 @@ Notion apprise:
 2. Je me suis nettement amélioré sur la création des fonctions et comment les appeller.
 3. J'ai découvert comment afficher nos éléments(skin) sur l'uart à l'aide de fonction que l'on a pu créer.
 
-Ce projet aura permis de perfectionné les connaissances en python et à apprendre à les utilisés au bon moment. Tout en s'amusant un réaliser un jeu que tous le monde connait. Les acquis ont pu être renforcé même s'il y eu beaucoup de temps perdu sur des petits détails que l'on ne voit pas forcément directement. On peut conclure que ce projet a été très enrichissant ainsi que très intérresant pour moi car il m'a apporté beaucoup de connaissance.
+Ce projet aura permis de perfectionné les connaissances en python et à apprendre à les utilisés au bon moment. Tout en s'amusant un réaliser un jeu que tous le monde connait. Les acquis ont pu être renforcé même s'il y eu beaucoup de temps perdu sur des petits détails que l'on ne voit pas forcément directement. On peut conclure que ce projet a été très enrichissant ainsi que très intérresant pour moi car il m'a apporté beaucoup de connaissances.
